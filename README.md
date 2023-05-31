@@ -4,7 +4,7 @@ Projekto su Django pavyzdys
 Repozitorija, skirta Django pavyzdžiams dėstant
 Sistema daržininkams-mėgėjams
 Trumpas aprašymas
-Web puslapis daržininkų užrašams Naudotojai gali žymėti ką sodins ir kiek, kokios rūšies daržoves ir kokios veislės. Kada sodins sodinukus, kada persodins į lysves. Kada reikia tręsti, laistyti, purkįti nuo kenkėjų. Kiek derliaus surinkta. 
+Web puslapis daržininkų užrašams Naudotojai gali žymėti ką sodins ir kiek, kokios rūšies daržoves ir kokios veislės. Kada sodins sodinukus, kada persodins į lysves. Kada reikia tręsti, laistyti, purkšti nuo kenkėjų. Kiek derliaus surinkta. 
 
 Duomenys
     • Vartotojas
@@ -14,7 +14,7 @@ Duomenys
         ◦ el. paštas
         ◦ vietovė
     • daržas
-        ◦ plotas arais
+        ◦ plotas metrais
         ◦ užsodinta veislė
         ◦ pasodinimo data (pasėjimo)
         ◦ sodinimas iš sėklų
@@ -44,7 +44,7 @@ Procesai
         ◦ Naudotojas paspaudžia mygtuką "mano augalų veislės"
         ◦ Naudotojui parodomos visos jo įkeltos veislės
     • Reikiamo sėklų kiekio apskaičiavimas:
-        ◦ Aukščiau aprašytam augalų veislių sąraše prie kiekvienos veislės  yra mygtukas "įvesti normą apsodinti plotą, metrais:“
+        ◦ Aukščiau aprašytam augalų veislių sąraše prie kiekvienos veislės  yra mygtukas "įvesti norimą apsodinti plotą, metrais:“
         ◦ Paspaudus mygtuką "redaguoti", atsidaro langas, identiškas įvedimo langui, bet jau su esamais duomenimis
         ◦ Duomenis galima pakeisti
         ◦ Paspaudus mygtuką "saugoti", duomenys išsaugomi.
