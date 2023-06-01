@@ -6,7 +6,7 @@ Sistema daržininkams-mėgėjams
 Trumpas aprašymas
 Web puslapis daržininkų užrašams Naudotojai gali žymėti ką sodins ir kiek, kokios rūšies daržoves ir kokios veislės. Kada sodins sodinukus, kada persodins į lysves. Kada reikia tręsti, laistyti, purkšti nuo kenkėjų. Kiek derliaus surinkta. 
 
-Duomenys
+## Duomenys
     - Vartotojas
         - Vardas
         - Pavardė
@@ -34,7 +34,7 @@ Duomenys
         - reikalingi įrankiai, įranga daržovėms auginti
         - auginama šiltnamyje ir/ar tik lauke
           
-Procesai
+## Procesai
     - Veislės pasirinkimas
         - Naudotojas pasirenka veislę "Išsirinkite augalo veislę"
         - Naudotojui pasirinkus veislę rodomas veislės aprašymas
@@ -66,8 +66,9 @@ Procesai
     - Derliaus nuėmimas
         - Pagal sėklų gamintojų rekomendacijas derliaus nuėmimas, siunčiamas el.paštu priminimas
     - Pastabos
-Naudotojai ir rolės
+    
+## Naudotojai ir rolės
     1. Naudotojai. Gali matyti ir redaguoti savo paskyros duomenis. Gali rinktis veisles. Apskaičiuoti sėklų poreikį, stebėti sodinukų augimo procesą, žymėti augalų priežiūros darbus.
     2. Sistemos administratorius. Gali matyti visų vartotojų duomenis. Neleidžia taisyti teksto.  Gali panaikinti naudotojų paskyras.
-Dizainas
+## Dizainas
 Dizainas minimalus, funkcionalus
